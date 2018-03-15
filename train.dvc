@@ -1,0 +1,8 @@
+cmd: unzip -d data/ -q data/train.zip
+deps:
+- md5: fd47d523fa82bb9c282b897b55be0442
+  path: data/train.zip
+outs:
+- cache: true
+  md5: 0dd437f2f04fbf54355beab021494baa.dir
+  path: data/train
