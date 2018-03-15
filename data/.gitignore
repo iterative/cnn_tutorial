@@ -3,3 +3,5 @@ train
 cats_and_dogs_small
 model.h5
 history.p
+plot_loss.jpeg
+plot_acc.jpeg
