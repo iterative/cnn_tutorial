@@ -1,0 +1,6 @@
+cmd: null
+deps: []
+outs:
+- cache: true
+  md5: fd47d523fa82bb9c282b897b55be0442
+  path: train.zip
