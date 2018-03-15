@@ -1,0 +1,10 @@
+cmd: python code/process_files.py
+deps:
+- md5: a24ee1c973ce36b72dca73572ee1136b
+  path: code/process_files.py
+- md5: 0dd437f2f04fbf54355beab021494baa.dir
+  path: data/train
+outs:
+- cache: true
+  md5: da49cf17236a5f2b4cf7046518b272d8.dir
+  path: data/cats_and_dogs_small
