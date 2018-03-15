@@ -10,9 +10,8 @@ LogLevel = Info
 CredentialPath = ~/.aws/credentials
 CredentialSection = default
 
-StoragePath = dvc/tutorial
+StoragePath = dvc-share/cnn_tutorial_cache
 
 [GCP]
 StoragePath = 
 ProjectName = 
-
